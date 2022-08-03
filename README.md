@@ -1,7 +1,13 @@
 # Hi there 👋, my name is Samuel
 ### I'm 16 years old and on the journey to become a Full-Stack Dev
 
+#  🔭 Currently studying :
+
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+
+
 #### I'm doing a series of posts on linkedin called 🚩RoadMap by Full-Stack Dev🚩. Where I show every step I take on my journey.
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true&custom_title=Godoi's GitHub &username=SamuelGodoi" height="150" alt="stats graph"  />
@@ -51,3 +57,7 @@
 </div>
 
 ###
+
+
+
+</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a>
