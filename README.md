@@ -1,6 +1,7 @@
 # Hi there 👋, my name is Samuel
 ### I'm 16 years old and on the journey to become a Full-Stack Dev
 
+
 #  🔭 Currently studying :
 
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
@@ -9,7 +10,7 @@
 #### I'm doing a series of posts on linkedin called 🚩RoadMap by Full-Stack Dev🚩. Where I show every step I take on my journey.
 
 
-<div align="center">
+<div align="rigth">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true&custom_title=Godoi's GitHub &username=SamuelGodoi" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Most Used Languages&username=SamuelGodoi" height="149" alt="languages graph"  />
 </div>
@@ -35,10 +36,10 @@
 ## 🚀 Languages and Tools already learned
 <br>
 <div align="center">
-<img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML 5" />
-<img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
-<img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
-<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
+</div>
   
 </div>
 
@@ -48,16 +49,18 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="58" width="90" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="58" width="90" alt="css3 logo"  />
+  <div align="center">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="58" width="90" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="58" width="90" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="58" width="90" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="58" width="90" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="58" width="90" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="58" width="90" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="58" width="90" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="58" width="90" alt="react logo"  />
+</div>
+
 </div>
 
 ###
 
-
-
-</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a>
