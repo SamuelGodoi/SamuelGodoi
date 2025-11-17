@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Samuel
-### I'm 16 years old and on the journey to become a Full-Cycle Dev
+
 
 
 #  🔭 Currently studying : (GoLang)
